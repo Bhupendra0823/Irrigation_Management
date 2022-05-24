@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">Irrigation Management</string>
-    <string name="automatic_irrigation_system">Automatic Irrigation System</string>
+    <string name="automatic_irrigation_system">Welcome to Automatic Irrigation System</string>
     <string name="humidity">Humidity (%) :</string>
     <string name="temperature_f">Temperature (°F) :</string>
     <string name="temperature_c">Temperature (°C) :</string>
