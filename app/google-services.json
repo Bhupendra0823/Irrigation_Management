@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "600911364541",
+    "firebase_url": "https://hellotest-2207d-default-rtdb.firebaseio.com",
+    "project_id": "hellotest-2207d",
+    "storage_bucket": "hellotest-2207d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600911364541:android:16782d5cd73a6cfedf12d4",
+        "android_client_info": {
+          "package_name": "com.example.irrigationmanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600911364541-kjrh04s4ok8n9tolj57o030d9dqgv0q6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-K1a8zL7k95C-kVslX4Ik-6GgZVf_bQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600911364541-kjrh04s4ok8n9tolj57o030d9dqgv0q6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
